@@ -2107,7 +2107,16 @@ h4{
   color: #aaaaaa;
   font-size: 14px;
 }
-
+.ngs{
+  text-align: left;
+}
+.eu{
+  text-align: left;
+  font-size: 11pt;
+}
+.enduring{
+  text-align: left;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
@@ -2290,3 +2299,5 @@ h4{
   margin-left: 50px;
 
 }
+
+
