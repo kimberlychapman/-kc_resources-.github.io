@@ -772,6 +772,7 @@ text-decoration: underline;
   font-size:12pt;
   text-align: center;
   font-weight:bold;
+  padding-bottom:15px;
 }
 #lesson-link{
   font-size:14pt;
@@ -2148,6 +2149,12 @@ h4{
 }
 .ngs{
   text-align: left;
+}
+.emphasis{
+  color: #1bbd36;
+}
+.parentheses{
+  font-style: italic;
 }
 /* .eu{
   text-align: left;
